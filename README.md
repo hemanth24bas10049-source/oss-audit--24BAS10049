@@ -48,9 +48,6 @@ To execute these scripts on a Ubuntu/WSL terminal, follow these steps:
 
 ---
 
-### 💡 About Section (For GitHub Sidebar)
-"Automated FOSS System Audit of Python Programming Language for OSS NGMC Course. Features 5 Bash scripts for identity, package inspection, disk auditing, log analysis, and manifesto generation. Student: [Your Friend's Name] ([Roll Number])."
 
----
 
 
